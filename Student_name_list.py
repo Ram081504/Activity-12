@@ -2,7 +2,7 @@ Student_names = ["SEVILLA", "TAAY", "TAYAS", "TORIBIO", "AMORES", "RODIEL", "INA
 print("A. Entire list:", Student_names)
 print("B. 15th index is:", Student_names[14])
 Student_names[11] = "DIO"
-print("C. Updaterd List:", Student_names)
+print("C. Updated List:", Student_names)
 del Student_names[9]
 print("D. Updated List:", Student_names)
 print("E. Sliced Portion:", Student_names[2:5])
