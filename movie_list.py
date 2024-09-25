@@ -5,5 +5,5 @@ Movie_list[14] = "Inception"
 print("C. Updated List:", Movie_list)
 del Movie_list[14]
 print("D. Updated List:", Movie_list)
-print("E. Sliced Portion:", Movie_list[2:5])
+print("E. Sliced Portion:", Movie_list[8:13])
 print("F. Last Index Is:", Movie_list[-1])
